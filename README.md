@@ -116,8 +116,7 @@ default on.
   Web Store extension ID, so it only works with the published version.
 - **Anyone with administrator access can undo the policy.** No software on a
   machine you control can prevent that.
-- **Chrome only, desktop only.** Firefox needs a manifest port. Mobile is a
-  different project.
+- **Currently Chrome only, desktop only.** Firefox Coming Soon.
 - **Other browsers are unaffected.** Installing it in one browser leaves the
   others open.
 - **Mixed-content platforms are out of scope.** Reddit, X, Telegram and Discord
