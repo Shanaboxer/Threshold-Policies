@@ -195,13 +195,6 @@ Then: browser menu → Extensions → CoolHeaded → Remove.
 Delete the extension without running the removal script and incognito stays
 disabled and the extensions page stays blocked.
 
-## Next, if it survives contact with real use
 
-1. Firefox port (mostly a manifest change)
-2. Optional local DNS-level enforcement for coverage outside the browser
-3. Import/export of settings, so a reinstall doesn't start from nothing
 
-## Licence
 
-Your call. The Blocklist Project list has its own licence — check it before
-distributing commercially.
